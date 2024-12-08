@@ -1,0 +1,2 @@
+# MSYS2-Eigen-OpenCV-Sample
+MSYS2安装配置并使用MinGW环境下载的OpenCV和Eigen三方库加载处理图片
